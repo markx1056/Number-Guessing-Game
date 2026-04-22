@@ -44,26 +44,6 @@ number-guessing-game/
 
 ---
 
-## ⚙️ How to Compile & Run
-
-**Using g++ (Linux / macOS / WSL):**
-```bash
-g++ -o number_guess number_guess.cpp
-./number_guess
-```
-
-**Using MSVC (Windows):**
-```bash
-cl /EHsc number_guess.cpp
-number_guess.exe
-```
-
-**Online Compilers:**
-- [OnlineGDB](https://www.onlinegdb.com/)
-- [Repl.it](https://replit.com/)
-
----
-
 ## 🎮 Sample Gameplay
 
 ```
@@ -95,16 +75,3 @@ Play again? (y/n):
 - Taking and validating user input with `cin`
 - Building a complete mini-project using only basic C++ concepts
 
----
-
-## 👤 Author
-
-**Your Name**
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
